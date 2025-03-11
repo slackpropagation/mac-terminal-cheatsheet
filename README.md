@@ -1,6 +1,4 @@
-# mac-terminal-cheatsheet
-
-### Terminal Cheatsheet for Mac (Basics)
+# Mac Terminal Cheatsheet
 
 ### SHORTCUTS
 
